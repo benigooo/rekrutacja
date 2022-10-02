@@ -1,0 +1,13 @@
+table{
+  width: 500px;
+}
+table tr{
+  border: 1px solid #eee;
+  height: 60px;
+}
+tbody tr:nth-child(odd){
+  background-color: #eee;
+}
+table tr td{
+  padding: 0 15px;
+}
